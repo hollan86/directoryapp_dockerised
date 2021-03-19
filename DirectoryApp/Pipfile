@@ -15,7 +15,7 @@ dj-database-url = "*"
 whitenoise = "*"
 psycopg2-binary = "*"
 mysqlclient = "*"
-pillow = "==6.2.0"
+pillow = "==8.1.1"
 drf-writable-nested = "*"
 
 [requires]
